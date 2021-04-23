@@ -1,2 +1,2 @@
 # learning-vuejs
-Vue.js essentials
+Vue.js essentials working with both the cdn and cli.
